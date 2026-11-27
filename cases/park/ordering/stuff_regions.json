@@ -1,0 +1,56 @@
+[
+    {
+        "segment_id": 6,
+        "class": "wall-other-merged",
+        "score": 0.766845,
+        "mask_file": "06_wall-other-merged.png",
+        "median_depth": 4.460052490234375,
+        "depth_rank": 0,
+        "label_id": 131
+    },
+    {
+        "segment_id": 5,
+        "class": "pavement-merged",
+        "score": 0.868342,
+        "mask_file": "05_pavement-merged.png",
+        "median_depth": 4.234123229980469,
+        "depth_rank": 2,
+        "label_id": 123
+    },
+    {
+        "segment_id": 9,
+        "class": "grass-merged",
+        "score": 0.888228,
+        "mask_file": "09_grass-merged.png",
+        "median_depth": 2.0051088333129883,
+        "depth_rank": 6,
+        "label_id": 125
+    },
+    {
+        "segment_id": 16,
+        "class": "tree-merged",
+        "score": 0.998372,
+        "mask_file": "16_tree-merged.png",
+        "median_depth": 0.70331209897995,
+        "depth_rank": 10,
+        "label_id": 116
+    },
+    {
+        "segment_id": 8,
+        "class": "building-other-merged",
+        "score": 0.979967,
+        "mask_file": "08_building-other-merged.png",
+        "median_depth": 0.43496984243392944,
+        "depth_rank": 12,
+        "label_id": 129
+    },
+    {
+        "segment_id": 12,
+        "class": "sky-other-merged",
+        "score": 0.995394,
+        "mask_file": "12_sky-other-merged.png",
+        "median_depth": 0.0,
+        "depth_rank": 15,
+        "label_id": 119
+    }
+]

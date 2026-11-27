@@ -1,0 +1,40 @@
+[
+  {
+    "layer_index": 0,
+    "segment_id": null,
+    "class": "completed_background",
+    "source": "background_completed.png"
+  },
+  {
+    "layer_index": 1,
+    "segment_id": 3,
+    "class": "sky-other-merged",
+    "depth_rank": 3,
+    "median_depth": 0.0,
+    "source": "03_sky-other-merged_rgba.png"
+  },
+  {
+    "layer_index": 2,
+    "segment_id": 2,
+    "class": "mountain-merged",
+    "depth_rank": 2,
+    "median_depth": 0.15080325305461884,
+    "source": "02_mountain-merged_rgba.png"
+  },
+  {
+    "layer_index": 3,
+    "segment_id": 4,
+    "class": "river",
+    "depth_rank": 1,
+    "median_depth": 0.1616109162569046,
+    "source": "04_river_rgba.png"
+  },
+  {
+    "layer_index": 4,
+    "segment_id": 1,
+    "class": "dog",
+    "depth_rank": 0,
+    "median_depth": 4.030993938446045,
+    "source": "01_dog_rgba.png"
+  }
+]

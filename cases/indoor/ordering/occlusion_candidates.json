@@ -1,0 +1,210 @@
+[
+    {
+        "segment_id": 2,
+        "class": "person",
+        "depth_rank": 2,
+        "contact_ratio": 0.0668259037599635,
+        "occluders": [
+            {
+                "segment_id": 10,
+                "class": "chair",
+                "contact_pixels": 2490
+            }
+        ]
+    },
+    {
+        "segment_id": 19,
+        "class": "couch",
+        "depth_rank": 4,
+        "contact_ratio": 0.03083813838550247,
+        "occluders": [
+            {
+                "segment_id": 9,
+                "class": "light",
+                "contact_pixels": 539
+            },
+            {
+                "segment_id": 17,
+                "class": "table-merged",
+                "contact_pixels": 1258
+            }
+        ]
+    },
+    {
+        "segment_id": 5,
+        "class": "potted plant",
+        "depth_rank": 5,
+        "contact_ratio": 0.39644607843137253,
+        "occluders": [
+            {
+                "segment_id": 17,
+                "class": "table-merged",
+                "contact_pixels": 647
+            }
+        ]
+    },
+    {
+        "segment_id": 16,
+        "class": "person",
+        "depth_rank": 7,
+        "contact_ratio": 0.13926028824448689,
+        "occluders": [
+            {
+                "segment_id": 19,
+                "class": "couch",
+                "contact_pixels": 2406
+            }
+        ]
+    },
+    {
+        "segment_id": 4,
+        "class": "laptop",
+        "depth_rank": 8,
+        "contact_ratio": 0.7536907536907537,
+        "occluders": [
+            {
+                "segment_id": 19,
+                "class": "couch",
+                "contact_pixels": 450
+            },
+            {
+                "segment_id": 16,
+                "class": "person",
+                "contact_pixels": 520
+            }
+        ]
+    },
+    {
+        "segment_id": 14,
+        "class": "chair",
+        "depth_rank": 9,
+        "contact_ratio": 0.16233518786677845,
+        "occluders": [
+            {
+                "segment_id": 2,
+                "class": "person",
+                "contact_pixels": 1123
+            },
+            {
+                "segment_id": 17,
+                "class": "table-merged",
+                "contact_pixels": 452
+            },
+            {
+                "segment_id": 3,
+                "class": "floor-wood",
+                "contact_pixels": 555
+            }
+        ]
+    },
+    {
+        "segment_id": 13,
+        "class": "dining table",
+        "depth_rank": 11,
+        "contact_ratio": 0.3869246164109406,
+        "occluders": [
+            {
+                "segment_id": 17,
+                "class": "table-merged",
+                "contact_pixels": 258
+            },
+            {
+                "segment_id": 14,
+                "class": "chair",
+                "contact_pixels": 185
+            },
+            {
+                "segment_id": 7,
+                "class": "wall-other-merged",
+                "contact_pixels": 137
+            }
+        ]
+    },
+    {
+        "segment_id": 1,
+        "class": "chair",
+        "depth_rank": 13,
+        "contact_ratio": 0.8150369003690037,
+        "occluders": [
+            {
+                "segment_id": 17,
+                "class": "table-merged",
+                "contact_pixels": 191
+            },
+            {
+                "segment_id": 14,
+                "class": "chair",
+                "contact_pixels": 175
+            },
+            {
+                "segment_id": 7,
+                "class": "wall-other-merged",
+                "contact_pixels": 919
+            },
+            {
+                "segment_id": 13,
+                "class": "dining table",
+                "contact_pixels": 482
+            }
+        ]
+    },
+    {
+        "segment_id": 12,
+        "class": "dining table",
+        "depth_rank": 14,
+        "contact_ratio": 0.4181298489179257,
+        "occluders": [
+            {
+                "segment_id": 7,
+                "class": "wall-other-merged",
+                "contact_pixels": 1024
+            }
+        ]
+    },
+    {
+        "segment_id": 15,
+        "class": "potted plant",
+        "depth_rank": 15,
+        "contact_ratio": 0.315708339756436,
+        "occluders": [
+            {
+                "segment_id": 19,
+                "class": "couch",
+                "contact_pixels": 57
+            },
+            {
+                "segment_id": 7,
+                "class": "wall-other-merged",
+                "contact_pixels": 1991
+            }
+        ]
+    },
+    {
+        "segment_id": 18,
+        "class": "chair",
+        "depth_rank": 16,
+        "contact_ratio": 0.5440340909090909,
+        "occluders": [
+            {
+                "segment_id": 5,
+                "class": "potted plant",
+                "contact_pixels": 82
+            },
+            {
+                "segment_id": 3,
+                "class": "floor-wood",
+                "contact_pixels": 504
+            },
+            {
+                "segment_id": 7,
+                "class": "wall-other-merged",
+                "contact_pixels": 744
+            },
+            {
+                "segment_id": 12,
+                "class": "dining table",
+                "contact_pixels": 202
+            }
+        ]
+    }
+]

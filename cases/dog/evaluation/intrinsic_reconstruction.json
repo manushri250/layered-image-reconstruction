@@ -1,0 +1,18 @@
+[
+  {
+    "layer": "01_dog",
+    "mean_absolute_error": 0.08902132511138916
+  },
+  {
+    "layer": "02_mountain-merged",
+    "mean_absolute_error": 0.030998598784208298
+  },
+  {
+    "layer": "03_sky-other-merged",
+    "mean_absolute_error": 0.020260874181985855
+  },
+  {
+    "layer": "04_river",
+    "mean_absolute_error": 0.060442376881837845
+  }
+]

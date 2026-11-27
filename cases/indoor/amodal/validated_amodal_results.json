@@ -1,0 +1,110 @@
+[
+    {
+        "segment_id": 10,
+        "class": "chair",
+        "overlap_score": 0.9747834368905619,
+        "growth_ratio": 0.05124948977277881,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "10_chair_final.png"
+    },
+    {
+        "segment_id": 2,
+        "class": "person",
+        "overlap_score": 0.9091811813960978,
+        "growth_ratio": 0.03145379887818362,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "02_person_final.png"
+    },
+    {
+        "segment_id": 19,
+        "class": "couch",
+        "overlap_score": 0.9922261120263591,
+        "growth_ratio": 0.08645661724327293,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "19_couch_final.png"
+    },
+    {
+        "segment_id": 5,
+        "class": "potted plant",
+        "overlap_score": 0.0,
+        "growth_ratio": 0.0,
+        "black_output": true,
+        "status": "visible fallback",
+        "final_mask": "05_potted_plant_final.png"
+    },
+    {
+        "segment_id": 16,
+        "class": "person",
+        "overlap_score": 0.7560919141054582,
+        "growth_ratio": 0.08230595589512069,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "16_person_final.png"
+    },
+    {
+        "segment_id": 4,
+        "class": "laptop",
+        "overlap_score": 0.0,
+        "growth_ratio": 0.0,
+        "black_output": false,
+        "status": "visible fallback",
+        "final_mask": "04_laptop_final.png"
+    },
+    {
+        "segment_id": 14,
+        "class": "chair",
+        "overlap_score": 0.9250819297309656,
+        "growth_ratio": 0.04275588750857404,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "14_chair_final.png"
+    },
+    {
+        "segment_id": 13,
+        "class": "dining table",
+        "overlap_score": 0.0,
+        "growth_ratio": 0.0,
+        "black_output": true,
+        "status": "visible fallback",
+        "final_mask": "13_dining_table_final.png"
+    },
+    {
+        "segment_id": 1,
+        "class": "chair",
+        "overlap_score": 0.5876383763837638,
+        "growth_ratio": 0.7541512915129152,
+        "black_output": false,
+        "status": "visible fallback",
+        "final_mask": "01_chair_final.png"
+    },
+    {
+        "segment_id": 12,
+        "class": "dining table",
+        "overlap_score": 0.0,
+        "growth_ratio": 0.0,
+        "black_output": false,
+        "status": "visible fallback",
+        "final_mask": "12_dining_table_final.png"
+    },
+    {
+        "segment_id": 15,
+        "class": "potted plant",
+        "overlap_score": 0.7605981193155542,
+        "growth_ratio": 0.01726529983043009,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "15_potted_plant_final.png"
+    },
+    {
+        "segment_id": 18,
+        "class": "chair",
+        "overlap_score": 0.0,
+        "growth_ratio": 0.0,
+        "black_output": false,
+        "status": "visible fallback",
+        "final_mask": "18_chair_final.png"
+    }
+]

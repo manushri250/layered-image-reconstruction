@@ -1,0 +1,128 @@
+[
+  {
+    "layer_index": 0,
+    "segment_id": null,
+    "class": "completed_background",
+    "source": "background_completed.png"
+  },
+  {
+    "layer_index": 1,
+    "segment_id": 10,
+    "class": "sky-other-merged",
+    "depth_rank": 14,
+    "median_depth": 0.0,
+    "source": "10_sky-other-merged_rgba.png"
+  },
+  {
+    "layer_index": 2,
+    "segment_id": 6,
+    "class": "traffic light",
+    "depth_rank": 13,
+    "median_depth": 0.9531981348991394,
+    "source": "06_traffic_light_rgba.png"
+  },
+  {
+    "layer_index": 3,
+    "segment_id": 9,
+    "class": "car",
+    "depth_rank": 12,
+    "median_depth": 0.9746707081794739,
+    "source": "09_car_rgba.png"
+  },
+  {
+    "layer_index": 4,
+    "segment_id": 3,
+    "class": "car",
+    "depth_rank": 11,
+    "median_depth": 1.0884501934051514,
+    "source": "03_car_rgba.png"
+  },
+  {
+    "layer_index": 5,
+    "segment_id": 7,
+    "class": "building-other-merged",
+    "depth_rank": 10,
+    "median_depth": 1.1054186820983887,
+    "source": "07_building-other-merged_rgba.png"
+  },
+  {
+    "layer_index": 6,
+    "segment_id": 13,
+    "class": "tree-merged",
+    "depth_rank": 9,
+    "median_depth": 1.1914341449737549,
+    "source": "13_tree-merged_rgba.png"
+  },
+  {
+    "layer_index": 7,
+    "segment_id": 12,
+    "class": "car",
+    "depth_rank": 8,
+    "median_depth": 1.7936954498291016,
+    "source": "12_car_rgba.png"
+  },
+  {
+    "layer_index": 8,
+    "segment_id": 15,
+    "class": "fence-merged",
+    "depth_rank": 7,
+    "median_depth": 1.9372317790985107,
+    "source": "15_fence-merged_rgba.png"
+  },
+  {
+    "layer_index": 9,
+    "segment_id": 11,
+    "class": "person",
+    "depth_rank": 6,
+    "median_depth": 2.235189437866211,
+    "source": "11_person_rgba.png"
+  },
+  {
+    "layer_index": 10,
+    "segment_id": 5,
+    "class": "person",
+    "depth_rank": 5,
+    "median_depth": 2.348755121231079,
+    "source": "05_person_rgba.png"
+  },
+  {
+    "layer_index": 11,
+    "segment_id": 8,
+    "class": "traffic light",
+    "depth_rank": 4,
+    "median_depth": 2.9719061851501465,
+    "source": "08_traffic_light_rgba.png"
+  },
+  {
+    "layer_index": 12,
+    "segment_id": 4,
+    "class": "pavement-merged",
+    "depth_rank": 3,
+    "median_depth": 3.955765724182129,
+    "source": "04_pavement-merged_rgba.png"
+  },
+  {
+    "layer_index": 13,
+    "segment_id": 2,
+    "class": "person",
+    "depth_rank": 2,
+    "median_depth": 4.392094135284424,
+    "source": "02_person_rgba.png"
+  },
+  {
+    "layer_index": 14,
+    "segment_id": 1,
+    "class": "car",
+    "depth_rank": 1,
+    "median_depth": 5.209565162658691,
+    "source": "01_car_rgba.png"
+  },
+  {
+    "layer_index": 15,
+    "segment_id": 14,
+    "class": "road",
+    "depth_rank": 0,
+    "median_depth": 5.687972068786621,
+    "source": "14_road_rgba.png"
+  }
+]

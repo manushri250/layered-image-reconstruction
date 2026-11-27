@@ -1,0 +1,8 @@
+{
+    "target_device": "cuda",
+    "gpu_name": "Tesla T4",
+    "free_gpu_gb": 14.17,
+    "total_gpu_gb": 14.56,
+    "primary_plan": "lightweight amodal completion on object crops",
+    "pix2gestalt_note": "reference model, not used directly on T4 because of VRAM limits"
+}

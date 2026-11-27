@@ -1,0 +1,187 @@
+[
+    {
+        "segment_id": 14,
+        "class": "bicycle",
+        "depth_rank": 1,
+        "contact_ratio": 0.028565713142628527,
+        "occluders": [
+            {
+                "segment_id": 6,
+                "class": "wall-other-merged",
+                "contact_pixels": 1428
+            }
+        ]
+    },
+    {
+        "segment_id": 3,
+        "class": "person",
+        "depth_rank": 3,
+        "contact_ratio": 0.08627209838585703,
+        "occluders": [
+            {
+                "segment_id": 6,
+                "class": "wall-other-merged",
+                "contact_pixels": 608
+            },
+            {
+                "segment_id": 5,
+                "class": "pavement-merged",
+                "contact_pixels": 2198
+            }
+        ]
+    },
+    {
+        "segment_id": 7,
+        "class": "bench",
+        "depth_rank": 4,
+        "contact_ratio": 0.19639623324882288,
+        "occluders": [
+            {
+                "segment_id": 6,
+                "class": "wall-other-merged",
+                "contact_pixels": 882
+            },
+            {
+                "segment_id": 3,
+                "class": "person",
+                "contact_pixels": 1287
+            }
+        ]
+    },
+    {
+        "segment_id": 4,
+        "class": "person",
+        "depth_rank": 5,
+        "contact_ratio": 0.16979873908826382,
+        "occluders": [
+            {
+                "segment_id": 6,
+                "class": "wall-other-merged",
+                "contact_pixels": 51
+            },
+            {
+                "segment_id": 5,
+                "class": "pavement-merged",
+                "contact_pixels": 870
+            },
+            {
+                "segment_id": 3,
+                "class": "person",
+                "contact_pixels": 1880
+            }
+        ]
+    },
+    {
+        "segment_id": 13,
+        "class": "person",
+        "depth_rank": 7,
+        "contact_ratio": 0.1693227091633466,
+        "occluders": [
+            {
+                "segment_id": 14,
+                "class": "bicycle",
+                "contact_pixels": 425
+            }
+        ]
+    },
+    {
+        "segment_id": 2,
+        "class": "bicycle",
+        "depth_rank": 8,
+        "contact_ratio": 0.27902532250358336,
+        "occluders": [
+            {
+                "segment_id": 5,
+                "class": "pavement-merged",
+                "contact_pixels": 584
+            }
+        ]
+    },
+    {
+        "segment_id": 1,
+        "class": "person",
+        "depth_rank": 9,
+        "contact_ratio": 0.29248895434462446,
+        "occluders": [
+            {
+                "segment_id": 5,
+                "class": "pavement-merged",
+                "contact_pixels": 327
+            },
+            {
+                "segment_id": 2,
+                "class": "bicycle",
+                "contact_pixels": 666
+            }
+        ]
+    },
+    {
+        "segment_id": 15,
+        "class": "person",
+        "depth_rank": 11,
+        "contact_ratio": 0.4507135016465423,
+        "occluders": [
+            {
+                "segment_id": 5,
+                "class": "pavement-merged",
+                "contact_pixels": 939
+            },
+            {
+                "segment_id": 16,
+                "class": "tree-merged",
+                "contact_pixels": 1114
+            }
+        ]
+    },
+    {
+        "segment_id": 11,
+        "class": "bicycle",
+        "depth_rank": 13,
+        "contact_ratio": 0.7410468319559229,
+        "occluders": [
+            {
+                "segment_id": 5,
+                "class": "pavement-merged",
+                "contact_pixels": 290
+            },
+            {
+                "segment_id": 16,
+                "class": "tree-merged",
+                "contact_pixels": 236
+            },
+            {
+                "segment_id": 8,
+                "class": "building-other-merged",
+                "contact_pixels": 12
+            }
+        ]
+    },
+    {
+        "segment_id": 10,
+        "class": "person",
+        "depth_rank": 14,
+        "contact_ratio": 2.201780415430267,
+        "occluders": [
+            {
+                "segment_id": 5,
+                "class": "pavement-merged",
+                "contact_pixels": 122
+            },
+            {
+                "segment_id": 16,
+                "class": "tree-merged",
+                "contact_pixels": 217
+            },
+            {
+                "segment_id": 8,
+                "class": "building-other-merged",
+                "contact_pixels": 154
+            },
+            {
+                "segment_id": 11,
+                "class": "bicycle",
+                "contact_pixels": 249
+            }
+        ]
+    }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "layer": "01_rock-merged",
+    "mean_absolute_error": 0.05350540950894356
+  },
+  {
+    "layer": "02_mountain-merged",
+    "mean_absolute_error": 0.056423936039209366
+  },
+  {
+    "layer": "03_grass-merged",
+    "mean_absolute_error": 0.04657914116978645
+  },
+  {
+    "layer": "04_sky-other-merged",
+    "mean_absolute_error": 0.09420596808195114
+  },
+  {
+    "layer": "05_tree-merged",
+    "mean_absolute_error": 0.029137182980775833
+  },
+  {
+    "layer": "06_river",
+    "mean_absolute_error": 0.04990550875663757
+  },
+  {
+    "layer": "07_tent",
+    "mean_absolute_error": 0.059076905250549316
+  }
+]

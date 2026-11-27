@@ -1,0 +1,65 @@
+[
+    {
+        "segment_id": 9,
+        "class": "light",
+        "score": 0.991388,
+        "mask_file": "09_light.png",
+        "median_depth": 4.643831253051758,
+        "depth_rank": 1,
+        "label_id": 92
+    },
+    {
+        "segment_id": 17,
+        "class": "table-merged",
+        "score": 0.977805,
+        "mask_file": "17_table-merged.png",
+        "median_depth": 4.165926933288574,
+        "depth_rank": 3,
+        "label_id": 121
+    },
+    {
+        "segment_id": 3,
+        "class": "floor-wood",
+        "score": 0.913642,
+        "mask_file": "03_floor-wood.png",
+        "median_depth": 2.8440394401550293,
+        "depth_rank": 6,
+        "label_id": 87
+    },
+    {
+        "segment_id": 7,
+        "class": "wall-other-merged",
+        "score": 0.996121,
+        "mask_file": "07_wall-other-merged.png",
+        "median_depth": 1.5515868663787842,
+        "depth_rank": 10,
+        "label_id": 131
+    },
+    {
+        "segment_id": 11,
+        "class": "ceiling-merged",
+        "score": 0.914709,
+        "mask_file": "11_ceiling-merged.png",
+        "median_depth": 0.8115952014923096,
+        "depth_rank": 12,
+        "label_id": 118
+    },
+    {
+        "segment_id": 8,
+        "class": "window-other",
+        "score": 0.989784,
+        "mask_file": "08_window-other.png",
+        "median_depth": 0.5693198442459106,
+        "depth_rank": 17,
+        "label_id": 115
+    },
+    {
+        "segment_id": 6,
+        "class": "door-stuff",
+        "score": 0.765487,
+        "mask_file": "06_door-stuff.png",
+        "median_depth": 0.34462153911590576,
+        "depth_rank": 18,
+        "label_id": 86
+    }
+]

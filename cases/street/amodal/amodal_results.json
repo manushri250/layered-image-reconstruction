@@ -1,0 +1,74 @@
+[
+    {
+        "segment_id": 1,
+        "class": "car",
+        "overlap_score": 0.979239081921095,
+        "added_pixels": 1441,
+        "completed_image": "01_car_completed.png",
+        "amodal_mask": "01_car_amodal.png"
+    },
+    {
+        "segment_id": 2,
+        "class": "person",
+        "overlap_score": 0.812138285819273,
+        "added_pixels": 717,
+        "completed_image": "02_person_completed.png",
+        "amodal_mask": "02_person_amodal.png"
+    },
+    {
+        "segment_id": 8,
+        "class": "traffic light",
+        "overlap_score": 0.8583872573419612,
+        "added_pixels": 151,
+        "completed_image": "08_traffic_light_completed.png",
+        "amodal_mask": "08_traffic_light_amodal.png"
+    },
+    {
+        "segment_id": 5,
+        "class": "person",
+        "overlap_score": 0.654137764155509,
+        "added_pixels": 294,
+        "completed_image": "05_person_completed.png",
+        "amodal_mask": "05_person_amodal.png"
+    },
+    {
+        "segment_id": 11,
+        "class": "person",
+        "overlap_score": 0.8056371109806224,
+        "added_pixels": 293,
+        "completed_image": "11_person_completed.png",
+        "amodal_mask": "11_person_amodal.png"
+    },
+    {
+        "segment_id": 12,
+        "class": "car",
+        "overlap_score": 0.3724007561436673,
+        "added_pixels": 558,
+        "completed_image": "12_car_completed.png",
+        "amodal_mask": "12_car_amodal.png"
+    },
+    {
+        "segment_id": 3,
+        "class": "car",
+        "overlap_score": 0.0,
+        "added_pixels": 0,
+        "completed_image": "03_car_completed.png",
+        "amodal_mask": "03_car_amodal.png"
+    },
+    {
+        "segment_id": 9,
+        "class": "car",
+        "overlap_score": 0.890211246652782,
+        "added_pixels": 748,
+        "completed_image": "09_car_completed.png",
+        "amodal_mask": "09_car_amodal.png"
+    },
+    {
+        "segment_id": 6,
+        "class": "traffic light",
+        "overlap_score": 0.0,
+        "added_pixels": 0,
+        "completed_image": "06_traffic_light_completed.png",
+        "amodal_mask": "06_traffic_light_amodal.png"
+    }
+]

@@ -1,0 +1,130 @@
+[
+    {
+        "segment_id": 6,
+        "class": "wall-other-merged",
+        "score": 0.766845,
+        "mask_file": "06_wall-other-merged.png",
+        "median_depth": 4.460052490234375,
+        "depth_rank": 0
+    },
+    {
+        "segment_id": 14,
+        "class": "bicycle",
+        "score": 0.999143,
+        "mask_file": "14_bicycle.png",
+        "median_depth": 4.449351787567139,
+        "depth_rank": 1
+    },
+    {
+        "segment_id": 5,
+        "class": "pavement-merged",
+        "score": 0.868342,
+        "mask_file": "05_pavement-merged.png",
+        "median_depth": 4.234123229980469,
+        "depth_rank": 2
+    },
+    {
+        "segment_id": 3,
+        "class": "person",
+        "score": 0.999773,
+        "mask_file": "03_person.png",
+        "median_depth": 2.894144296646118,
+        "depth_rank": 3
+    },
+    {
+        "segment_id": 7,
+        "class": "bench",
+        "score": 0.997366,
+        "mask_file": "07_bench.png",
+        "median_depth": 2.816098690032959,
+        "depth_rank": 4
+    },
+    {
+        "segment_id": 4,
+        "class": "person",
+        "score": 0.99599,
+        "mask_file": "04_person.png",
+        "median_depth": 2.255692720413208,
+        "depth_rank": 5
+    },
+    {
+        "segment_id": 9,
+        "class": "grass-merged",
+        "score": 0.888228,
+        "mask_file": "09_grass-merged.png",
+        "median_depth": 2.0051088333129883,
+        "depth_rank": 6
+    },
+    {
+        "segment_id": 13,
+        "class": "person",
+        "score": 0.99581,
+        "mask_file": "13_person.png",
+        "median_depth": 1.2450687885284424,
+        "depth_rank": 7
+    },
+    {
+        "segment_id": 2,
+        "class": "bicycle",
+        "score": 0.998035,
+        "mask_file": "02_bicycle.png",
+        "median_depth": 0.7953566908836365,
+        "depth_rank": 8
+    },
+    {
+        "segment_id": 1,
+        "class": "person",
+        "score": 0.998659,
+        "mask_file": "01_person.png",
+        "median_depth": 0.7263481020927429,
+        "depth_rank": 9
+    },
+    {
+        "segment_id": 16,
+        "class": "tree-merged",
+        "score": 0.998372,
+        "mask_file": "16_tree-merged.png",
+        "median_depth": 0.70331209897995,
+        "depth_rank": 10
+    },
+    {
+        "segment_id": 15,
+        "class": "person",
+        "score": 0.99893,
+        "mask_file": "15_person.png",
+        "median_depth": 0.6867082715034485,
+        "depth_rank": 11
+    },
+    {
+        "segment_id": 8,
+        "class": "building-other-merged",
+        "score": 0.979967,
+        "mask_file": "08_building-other-merged.png",
+        "median_depth": 0.43496984243392944,
+        "depth_rank": 12
+    },
+    {
+        "segment_id": 11,
+        "class": "bicycle",
+        "score": 0.617687,
+        "mask_file": "11_bicycle.png",
+        "median_depth": 0.11597474664449692,
+        "depth_rank": 13
+    },
+    {
+        "segment_id": 10,
+        "class": "person",
+        "score": 0.621203,
+        "mask_file": "10_person.png",
+        "median_depth": 0.09133394807577133,
+        "depth_rank": 14
+    },
+    {
+        "segment_id": 12,
+        "class": "sky-other-merged",
+        "score": 0.995394,
+        "mask_file": "12_sky-other-merged.png",
+        "median_depth": 0.0,
+        "depth_rank": 15
+    }
+]

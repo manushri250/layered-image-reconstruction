@@ -1,0 +1,66 @@
+[
+  {
+    "layer": "01_person",
+    "mean_absolute_error": 0.09313660115003586
+  },
+  {
+    "layer": "02_bicycle",
+    "mean_absolute_error": 0.09729690104722977
+  },
+  {
+    "layer": "03_person",
+    "mean_absolute_error": 0.047726310789585114
+  },
+  {
+    "layer": "04_person",
+    "mean_absolute_error": 0.06663757562637329
+  },
+  {
+    "layer": "05_pavement-merged",
+    "mean_absolute_error": 0.030983714386820793
+  },
+  {
+    "layer": "06_wall-other-merged",
+    "mean_absolute_error": 0.03475911170244217
+  },
+  {
+    "layer": "07_bench",
+    "mean_absolute_error": 0.05155569314956665
+  },
+  {
+    "layer": "08_building-other-merged",
+    "mean_absolute_error": 0.07174618542194366
+  },
+  {
+    "layer": "09_grass-merged",
+    "mean_absolute_error": 0.040747784078121185
+  },
+  {
+    "layer": "10_person",
+    "mean_absolute_error": 0.028858408331871033
+  },
+  {
+    "layer": "11_bicycle",
+    "mean_absolute_error": 0.0940195843577385
+  },
+  {
+    "layer": "12_sky-other-merged",
+    "mean_absolute_error": 0.07070308923721313
+  },
+  {
+    "layer": "13_person",
+    "mean_absolute_error": 0.10198866575956345
+  },
+  {
+    "layer": "14_bicycle",
+    "mean_absolute_error": 0.054745253175497055
+  },
+  {
+    "layer": "15_person",
+    "mean_absolute_error": 0.10643340647220612
+  },
+  {
+    "layer": "16_tree-merged",
+    "mean_absolute_error": 0.04961681738495827
+  }
+]

@@ -1,0 +1,110 @@
+[
+    {
+        "segment_id": 10,
+        "class": "chair",
+        "score": 0.976383,
+        "mask_file": "10_chair.png",
+        "median_depth": 6.000509738922119,
+        "depth_rank": 0,
+        "label_id": 56
+    },
+    {
+        "segment_id": 2,
+        "class": "person",
+        "score": 0.998027,
+        "mask_file": "02_person.png",
+        "median_depth": 4.602018356323242,
+        "depth_rank": 2,
+        "label_id": 0
+    },
+    {
+        "segment_id": 19,
+        "class": "couch",
+        "score": 0.968551,
+        "mask_file": "19_couch.png",
+        "median_depth": 3.8358314037323,
+        "depth_rank": 4,
+        "label_id": 57
+    },
+    {
+        "segment_id": 5,
+        "class": "potted plant",
+        "score": 0.990751,
+        "mask_file": "05_potted_plant.png",
+        "median_depth": 3.262274980545044,
+        "depth_rank": 5,
+        "label_id": 58
+    },
+    {
+        "segment_id": 16,
+        "class": "person",
+        "score": 0.998962,
+        "mask_file": "16_person.png",
+        "median_depth": 2.5683114528656006,
+        "depth_rank": 7,
+        "label_id": 0
+    },
+    {
+        "segment_id": 4,
+        "class": "laptop",
+        "score": 0.854323,
+        "mask_file": "04_laptop.png",
+        "median_depth": 2.522162914276123,
+        "depth_rank": 8,
+        "label_id": 63
+    },
+    {
+        "segment_id": 14,
+        "class": "chair",
+        "score": 0.990734,
+        "mask_file": "14_chair.png",
+        "median_depth": 2.2242984771728516,
+        "depth_rank": 9,
+        "label_id": 56
+    },
+    {
+        "segment_id": 13,
+        "class": "dining table",
+        "score": 0.746986,
+        "mask_file": "13_dining_table.png",
+        "median_depth": 1.2403308153152466,
+        "depth_rank": 11,
+        "label_id": 60
+    },
+    {
+        "segment_id": 1,
+        "class": "chair",
+        "score": 0.673349,
+        "mask_file": "01_chair.png",
+        "median_depth": 0.8020322322845459,
+        "depth_rank": 13,
+        "label_id": 56
+    },
+    {
+        "segment_id": 12,
+        "class": "dining table",
+        "score": 0.718078,
+        "mask_file": "12_dining_table.png",
+        "median_depth": 0.740610659122467,
+        "depth_rank": 14,
+        "label_id": 60
+    },
+    {
+        "segment_id": 15,
+        "class": "potted plant",
+        "score": 0.97848,
+        "mask_file": "15_potted_plant.png",
+        "median_depth": 0.6842577457427979,
+        "depth_rank": 15,
+        "label_id": 58
+    },
+    {
+        "segment_id": 18,
+        "class": "chair",
+        "score": 0.524534,
+        "mask_file": "18_chair.png",
+        "median_depth": 0.5909308195114136,
+        "depth_rank": 16,
+        "label_id": 56
+    }
+]

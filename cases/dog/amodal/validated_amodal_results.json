@@ -1,0 +1,11 @@
+[
+    {
+        "segment_id": 1,
+        "class": "dog",
+        "overlap_score": 0.9655327945874835,
+        "growth_ratio": 0.053486186806991166,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "01_dog_final.png"
+    }
+]

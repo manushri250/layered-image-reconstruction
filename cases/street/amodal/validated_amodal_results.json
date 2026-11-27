@@ -1,0 +1,83 @@
+[
+    {
+        "segment_id": 1,
+        "class": "car",
+        "overlap_score": 0.979239081921095,
+        "growth_ratio": 0.009744782720424144,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "01_car_final.png"
+    },
+    {
+        "segment_id": 2,
+        "class": "person",
+        "overlap_score": 0.812138285819273,
+        "growth_ratio": 0.021955476620632637,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "02_person_final.png"
+    },
+    {
+        "segment_id": 8,
+        "class": "traffic light",
+        "overlap_score": 0.8583872573419612,
+        "growth_ratio": 0.01879044300647088,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "08_traffic_light_final.png"
+    },
+    {
+        "segment_id": 5,
+        "class": "person",
+        "overlap_score": 0.654137764155509,
+        "growth_ratio": 0.047427004355541216,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "05_person_final.png"
+    },
+    {
+        "segment_id": 11,
+        "class": "person",
+        "overlap_score": 0.8056371109806224,
+        "growth_ratio": 0.04301233118027011,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "11_person_final.png"
+    },
+    {
+        "segment_id": 12,
+        "class": "car",
+        "overlap_score": 0.3724007561436673,
+        "growth_ratio": 0.2637051039697543,
+        "black_output": false,
+        "status": "visible fallback",
+        "final_mask": "12_car_final.png"
+    },
+    {
+        "segment_id": 3,
+        "class": "car",
+        "overlap_score": 0.0,
+        "growth_ratio": 0.0,
+        "black_output": false,
+        "status": "visible fallback",
+        "final_mask": "03_car_final.png"
+    },
+    {
+        "segment_id": 9,
+        "class": "car",
+        "overlap_score": 0.890211246652782,
+        "growth_ratio": 0.2225528116631955,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "09_car_final.png"
+    },
+    {
+        "segment_id": 6,
+        "class": "traffic light",
+        "overlap_score": 0.0,
+        "growth_ratio": 0.0,
+        "black_output": false,
+        "status": "visible fallback",
+        "final_mask": "06_traffic_light_final.png"
+    }
+]

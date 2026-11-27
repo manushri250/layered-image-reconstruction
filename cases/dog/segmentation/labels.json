@@ -1,0 +1,26 @@
+[
+    {
+        "segment_id": 1,
+        "class": "dog",
+        "score": 0.998496,
+        "mask_file": "01_dog.png"
+    },
+    {
+        "segment_id": 2,
+        "class": "mountain-merged",
+        "score": 0.893926,
+        "mask_file": "02_mountain-merged.png"
+    },
+    {
+        "segment_id": 3,
+        "class": "sky-other-merged",
+        "score": 0.999519,
+        "mask_file": "03_sky-other-merged.png"
+    },
+    {
+        "segment_id": 4,
+        "class": "river",
+        "score": 0.872109,
+        "mask_file": "04_river.png"
+    }
+]

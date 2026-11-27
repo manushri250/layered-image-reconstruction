@@ -1,0 +1,56 @@
+[
+    {
+        "segment_id": 14,
+        "class": "road",
+        "score": 0.9889,
+        "mask_file": "14_road.png",
+        "median_depth": 5.687972068786621,
+        "depth_rank": 0,
+        "label_id": 100
+    },
+    {
+        "segment_id": 4,
+        "class": "pavement-merged",
+        "score": 0.985264,
+        "mask_file": "04_pavement-merged.png",
+        "median_depth": 3.955765724182129,
+        "depth_rank": 3,
+        "label_id": 123
+    },
+    {
+        "segment_id": 15,
+        "class": "fence-merged",
+        "score": 0.876085,
+        "mask_file": "15_fence-merged.png",
+        "median_depth": 1.9372317790985107,
+        "depth_rank": 7,
+        "label_id": 117
+    },
+    {
+        "segment_id": 13,
+        "class": "tree-merged",
+        "score": 0.997478,
+        "mask_file": "13_tree-merged.png",
+        "median_depth": 1.1914341449737549,
+        "depth_rank": 9,
+        "label_id": 116
+    },
+    {
+        "segment_id": 7,
+        "class": "building-other-merged",
+        "score": 0.983745,
+        "mask_file": "07_building-other-merged.png",
+        "median_depth": 1.1054186820983887,
+        "depth_rank": 10,
+        "label_id": 129
+    },
+    {
+        "segment_id": 10,
+        "class": "sky-other-merged",
+        "score": 0.999759,
+        "mask_file": "10_sky-other-merged.png",
+        "median_depth": 0.0,
+        "depth_rank": 14,
+        "label_id": 119
+    }
+]

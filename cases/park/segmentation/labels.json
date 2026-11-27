@@ -1,0 +1,98 @@
+[
+    {
+        "segment_id": 1,
+        "class": "person",
+        "score": 0.998659,
+        "mask_file": "01_person.png"
+    },
+    {
+        "segment_id": 2,
+        "class": "bicycle",
+        "score": 0.998035,
+        "mask_file": "02_bicycle.png"
+    },
+    {
+        "segment_id": 3,
+        "class": "person",
+        "score": 0.999773,
+        "mask_file": "03_person.png"
+    },
+    {
+        "segment_id": 4,
+        "class": "person",
+        "score": 0.99599,
+        "mask_file": "04_person.png"
+    },
+    {
+        "segment_id": 5,
+        "class": "pavement-merged",
+        "score": 0.868342,
+        "mask_file": "05_pavement-merged.png"
+    },
+    {
+        "segment_id": 6,
+        "class": "wall-other-merged",
+        "score": 0.766845,
+        "mask_file": "06_wall-other-merged.png"
+    },
+    {
+        "segment_id": 7,
+        "class": "bench",
+        "score": 0.997366,
+        "mask_file": "07_bench.png"
+    },
+    {
+        "segment_id": 8,
+        "class": "building-other-merged",
+        "score": 0.979967,
+        "mask_file": "08_building-other-merged.png"
+    },
+    {
+        "segment_id": 9,
+        "class": "grass-merged",
+        "score": 0.888228,
+        "mask_file": "09_grass-merged.png"
+    },
+    {
+        "segment_id": 10,
+        "class": "person",
+        "score": 0.621203,
+        "mask_file": "10_person.png"
+    },
+    {
+        "segment_id": 11,
+        "class": "bicycle",
+        "score": 0.617687,
+        "mask_file": "11_bicycle.png"
+    },
+    {
+        "segment_id": 12,
+        "class": "sky-other-merged",
+        "score": 0.995394,
+        "mask_file": "12_sky-other-merged.png"
+    },
+    {
+        "segment_id": 13,
+        "class": "person",
+        "score": 0.99581,
+        "mask_file": "13_person.png"
+    },
+    {
+        "segment_id": 14,
+        "class": "bicycle",
+        "score": 0.999143,
+        "mask_file": "14_bicycle.png"
+    },
+    {
+        "segment_id": 15,
+        "class": "person",
+        "score": 0.99893,
+        "mask_file": "15_person.png"
+    },
+    {
+        "segment_id": 16,
+        "class": "tree-merged",
+        "score": 0.998372,
+        "mask_file": "16_tree-merged.png"
+    }
+]

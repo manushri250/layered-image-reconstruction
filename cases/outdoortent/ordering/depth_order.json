@@ -1,0 +1,58 @@
+[
+    {
+        "segment_id": 3,
+        "class": "grass-merged",
+        "score": 0.977898,
+        "mask_file": "03_grass-merged.png",
+        "median_depth": 5.128219127655029,
+        "depth_rank": 0
+    },
+    {
+        "segment_id": 7,
+        "class": "tent",
+        "score": 0.972525,
+        "mask_file": "07_tent.png",
+        "median_depth": 4.917585372924805,
+        "depth_rank": 1
+    },
+    {
+        "segment_id": 1,
+        "class": "rock-merged",
+        "score": 0.828722,
+        "mask_file": "01_rock-merged.png",
+        "median_depth": 2.2053699493408203,
+        "depth_rank": 2
+    },
+    {
+        "segment_id": 5,
+        "class": "tree-merged",
+        "score": 0.973757,
+        "mask_file": "05_tree-merged.png",
+        "median_depth": 1.0497514009475708,
+        "depth_rank": 3
+    },
+    {
+        "segment_id": 6,
+        "class": "river",
+        "score": 0.945022,
+        "mask_file": "06_river.png",
+        "median_depth": 0.8573150634765625,
+        "depth_rank": 4
+    },
+    {
+        "segment_id": 2,
+        "class": "mountain-merged",
+        "score": 0.981851,
+        "mask_file": "02_mountain-merged.png",
+        "median_depth": 0.239427387714386,
+        "depth_rank": 5
+    },
+    {
+        "segment_id": 4,
+        "class": "sky-other-merged",
+        "score": 0.999428,
+        "mask_file": "04_sky-other-merged.png",
+        "median_depth": 0.0,
+        "depth_rank": 6
+    }
+]

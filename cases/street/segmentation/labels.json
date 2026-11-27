@@ -1,0 +1,92 @@
+[
+    {
+        "segment_id": 1,
+        "class": "car",
+        "score": 0.996656,
+        "mask_file": "01_car.png"
+    },
+    {
+        "segment_id": 2,
+        "class": "person",
+        "score": 0.999893,
+        "mask_file": "02_person.png"
+    },
+    {
+        "segment_id": 3,
+        "class": "car",
+        "score": 0.974517,
+        "mask_file": "03_car.png"
+    },
+    {
+        "segment_id": 4,
+        "class": "pavement-merged",
+        "score": 0.985264,
+        "mask_file": "04_pavement-merged.png"
+    },
+    {
+        "segment_id": 5,
+        "class": "person",
+        "score": 0.988958,
+        "mask_file": "05_person.png"
+    },
+    {
+        "segment_id": 6,
+        "class": "traffic light",
+        "score": 0.732484,
+        "mask_file": "06_traffic_light.png"
+    },
+    {
+        "segment_id": 7,
+        "class": "building-other-merged",
+        "score": 0.983745,
+        "mask_file": "07_building-other-merged.png"
+    },
+    {
+        "segment_id": 8,
+        "class": "traffic light",
+        "score": 0.996318,
+        "mask_file": "08_traffic_light.png"
+    },
+    {
+        "segment_id": 9,
+        "class": "car",
+        "score": 0.987305,
+        "mask_file": "09_car.png"
+    },
+    {
+        "segment_id": 10,
+        "class": "sky-other-merged",
+        "score": 0.999759,
+        "mask_file": "10_sky-other-merged.png"
+    },
+    {
+        "segment_id": 11,
+        "class": "person",
+        "score": 0.998158,
+        "mask_file": "11_person.png"
+    },
+    {
+        "segment_id": 12,
+        "class": "car",
+        "score": 0.940575,
+        "mask_file": "12_car.png"
+    },
+    {
+        "segment_id": 13,
+        "class": "tree-merged",
+        "score": 0.997478,
+        "mask_file": "13_tree-merged.png"
+    },
+    {
+        "segment_id": 14,
+        "class": "road",
+        "score": 0.9889,
+        "mask_file": "14_road.png"
+    },
+    {
+        "segment_id": 15,
+        "class": "fence-merged",
+        "score": 0.876085,
+        "mask_file": "15_fence-merged.png"
+    }
+]

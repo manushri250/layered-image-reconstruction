@@ -1,0 +1,83 @@
+[
+    {
+        "segment_id": 1,
+        "class": "car",
+        "score": 0.996656,
+        "mask_file": "01_car.png",
+        "median_depth": 5.209565162658691,
+        "depth_rank": 1,
+        "label_id": 2
+    },
+    {
+        "segment_id": 2,
+        "class": "person",
+        "score": 0.999893,
+        "mask_file": "02_person.png",
+        "median_depth": 4.392094135284424,
+        "depth_rank": 2,
+        "label_id": 0
+    },
+    {
+        "segment_id": 8,
+        "class": "traffic light",
+        "score": 0.996318,
+        "mask_file": "08_traffic_light.png",
+        "median_depth": 2.9719061851501465,
+        "depth_rank": 4,
+        "label_id": 9
+    },
+    {
+        "segment_id": 5,
+        "class": "person",
+        "score": 0.988958,
+        "mask_file": "05_person.png",
+        "median_depth": 2.348755121231079,
+        "depth_rank": 5,
+        "label_id": 0
+    },
+    {
+        "segment_id": 11,
+        "class": "person",
+        "score": 0.998158,
+        "mask_file": "11_person.png",
+        "median_depth": 2.235189437866211,
+        "depth_rank": 6,
+        "label_id": 0
+    },
+    {
+        "segment_id": 12,
+        "class": "car",
+        "score": 0.940575,
+        "mask_file": "12_car.png",
+        "median_depth": 1.7936954498291016,
+        "depth_rank": 8,
+        "label_id": 2
+    },
+    {
+        "segment_id": 3,
+        "class": "car",
+        "score": 0.974517,
+        "mask_file": "03_car.png",
+        "median_depth": 1.0884501934051514,
+        "depth_rank": 11,
+        "label_id": 2
+    },
+    {
+        "segment_id": 9,
+        "class": "car",
+        "score": 0.987305,
+        "mask_file": "09_car.png",
+        "median_depth": 0.9746707081794739,
+        "depth_rank": 12,
+        "label_id": 2
+    },
+    {
+        "segment_id": 6,
+        "class": "traffic light",
+        "score": 0.732484,
+        "mask_file": "06_traffic_light.png",
+        "median_depth": 0.9531981348991394,
+        "depth_rank": 13,
+        "label_id": 9
+    }
+]

@@ -1,0 +1,82 @@
+[
+    {
+        "segment_id": 14,
+        "class": "bicycle",
+        "overlap_score": 0.9957991598319664,
+        "added_pixels": 5868,
+        "completed_image": "14_bicycle_completed.png",
+        "amodal_mask": "14_bicycle_amodal.png"
+    },
+    {
+        "segment_id": 3,
+        "class": "person",
+        "overlap_score": 0.8881783243658724,
+        "added_pixels": 952,
+        "completed_image": "03_person_completed.png",
+        "amodal_mask": "03_person_amodal.png"
+    },
+    {
+        "segment_id": 7,
+        "class": "bench",
+        "overlap_score": 0.8442593263310395,
+        "added_pixels": 993,
+        "completed_image": "07_bench_completed.png",
+        "amodal_mask": "07_bench_amodal.png"
+    },
+    {
+        "segment_id": 4,
+        "class": "person",
+        "overlap_score": 0.950533462657614,
+        "added_pixels": 7629,
+        "completed_image": "04_person_completed.png",
+        "amodal_mask": "04_person_amodal.png"
+    },
+    {
+        "segment_id": 13,
+        "class": "person",
+        "overlap_score": 0.23705179282868527,
+        "added_pixels": 0,
+        "completed_image": "13_person_completed.png",
+        "amodal_mask": "13_person_amodal.png"
+    },
+    {
+        "segment_id": 2,
+        "class": "bicycle",
+        "overlap_score": 0.9187768752986144,
+        "added_pixels": 976,
+        "completed_image": "02_bicycle_completed.png",
+        "amodal_mask": "02_bicycle_amodal.png"
+    },
+    {
+        "segment_id": 1,
+        "class": "person",
+        "overlap_score": 0.7104565537555229,
+        "added_pixels": 310,
+        "completed_image": "01_person_completed.png",
+        "amodal_mask": "01_person_amodal.png"
+    },
+    {
+        "segment_id": 15,
+        "class": "person",
+        "overlap_score": 0.0,
+        "added_pixels": 0,
+        "completed_image": "15_person_completed.png",
+        "amodal_mask": "15_person_amodal.png"
+    },
+    {
+        "segment_id": 11,
+        "class": "bicycle",
+        "overlap_score": 0.0,
+        "added_pixels": 0,
+        "completed_image": "11_bicycle_completed.png",
+        "amodal_mask": "11_bicycle_amodal.png"
+    },
+    {
+        "segment_id": 10,
+        "class": "person",
+        "overlap_score": 0.4094955489614243,
+        "added_pixels": 209,
+        "completed_image": "10_person_completed.png",
+        "amodal_mask": "10_person_amodal.png"
+    }
+]

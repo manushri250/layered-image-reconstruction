@@ -1,0 +1,92 @@
+[
+    {
+        "segment_id": 14,
+        "class": "bicycle",
+        "overlap_score": 0.9957991598319664,
+        "growth_ratio": 0.11738347669533906,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "14_bicycle_final.png"
+    },
+    {
+        "segment_id": 3,
+        "class": "person",
+        "overlap_score": 0.8881783243658724,
+        "growth_ratio": 0.02926979246733282,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "03_person_final.png"
+    },
+    {
+        "segment_id": 7,
+        "class": "bench",
+        "overlap_score": 0.8442593263310395,
+        "growth_ratio": 0.08991307497283593,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "07_bench_final.png"
+    },
+    {
+        "segment_id": 4,
+        "class": "person",
+        "overlap_score": 0.950533462657614,
+        "growth_ratio": 0.4624757516973812,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "04_person_final.png"
+    },
+    {
+        "segment_id": 13,
+        "class": "person",
+        "overlap_score": 0.23705179282868527,
+        "growth_ratio": 0.0,
+        "black_output": false,
+        "status": "visible fallback",
+        "final_mask": "13_person_final.png"
+    },
+    {
+        "segment_id": 2,
+        "class": "bicycle",
+        "overlap_score": 0.9187768752986144,
+        "growth_ratio": 0.4663162924032489,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "02_bicycle_final.png"
+    },
+    {
+        "segment_id": 1,
+        "class": "person",
+        "overlap_score": 0.7104565537555229,
+        "growth_ratio": 0.09131075110456553,
+        "black_output": false,
+        "status": "accepted",
+        "final_mask": "01_person_final.png"
+    },
+    {
+        "segment_id": 15,
+        "class": "person",
+        "overlap_score": 0.0,
+        "growth_ratio": 0.0,
+        "black_output": false,
+        "status": "visible fallback",
+        "final_mask": "15_person_final.png"
+    },
+    {
+        "segment_id": 11,
+        "class": "bicycle",
+        "overlap_score": 0.0,
+        "growth_ratio": 0.0,
+        "black_output": false,
+        "status": "visible fallback",
+        "final_mask": "11_bicycle_final.png"
+    },
+    {
+        "segment_id": 10,
+        "class": "person",
+        "overlap_score": 0.4094955489614243,
+        "growth_ratio": 0.6201780415430267,
+        "black_output": false,
+        "status": "visible fallback",
+        "final_mask": "10_person_final.png"
+    }
+]

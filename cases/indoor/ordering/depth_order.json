@@ -1,0 +1,154 @@
+[
+    {
+        "segment_id": 10,
+        "class": "chair",
+        "score": 0.976383,
+        "mask_file": "10_chair.png",
+        "median_depth": 6.000509738922119,
+        "depth_rank": 0
+    },
+    {
+        "segment_id": 9,
+        "class": "light",
+        "score": 0.991388,
+        "mask_file": "09_light.png",
+        "median_depth": 4.643831253051758,
+        "depth_rank": 1
+    },
+    {
+        "segment_id": 2,
+        "class": "person",
+        "score": 0.998027,
+        "mask_file": "02_person.png",
+        "median_depth": 4.602018356323242,
+        "depth_rank": 2
+    },
+    {
+        "segment_id": 17,
+        "class": "table-merged",
+        "score": 0.977805,
+        "mask_file": "17_table-merged.png",
+        "median_depth": 4.165926933288574,
+        "depth_rank": 3
+    },
+    {
+        "segment_id": 19,
+        "class": "couch",
+        "score": 0.968551,
+        "mask_file": "19_couch.png",
+        "median_depth": 3.8358314037323,
+        "depth_rank": 4
+    },
+    {
+        "segment_id": 5,
+        "class": "potted plant",
+        "score": 0.990751,
+        "mask_file": "05_potted_plant.png",
+        "median_depth": 3.262274980545044,
+        "depth_rank": 5
+    },
+    {
+        "segment_id": 3,
+        "class": "floor-wood",
+        "score": 0.913642,
+        "mask_file": "03_floor-wood.png",
+        "median_depth": 2.8440394401550293,
+        "depth_rank": 6
+    },
+    {
+        "segment_id": 16,
+        "class": "person",
+        "score": 0.998962,
+        "mask_file": "16_person.png",
+        "median_depth": 2.5683114528656006,
+        "depth_rank": 7
+    },
+    {
+        "segment_id": 4,
+        "class": "laptop",
+        "score": 0.854323,
+        "mask_file": "04_laptop.png",
+        "median_depth": 2.522162914276123,
+        "depth_rank": 8
+    },
+    {
+        "segment_id": 14,
+        "class": "chair",
+        "score": 0.990734,
+        "mask_file": "14_chair.png",
+        "median_depth": 2.2242984771728516,
+        "depth_rank": 9
+    },
+    {
+        "segment_id": 7,
+        "class": "wall-other-merged",
+        "score": 0.996121,
+        "mask_file": "07_wall-other-merged.png",
+        "median_depth": 1.5515868663787842,
+        "depth_rank": 10
+    },
+    {
+        "segment_id": 13,
+        "class": "dining table",
+        "score": 0.746986,
+        "mask_file": "13_dining_table.png",
+        "median_depth": 1.2403308153152466,
+        "depth_rank": 11
+    },
+    {
+        "segment_id": 11,
+        "class": "ceiling-merged",
+        "score": 0.914709,
+        "mask_file": "11_ceiling-merged.png",
+        "median_depth": 0.8115952014923096,
+        "depth_rank": 12
+    },
+    {
+        "segment_id": 1,
+        "class": "chair",
+        "score": 0.673349,
+        "mask_file": "01_chair.png",
+        "median_depth": 0.8020322322845459,
+        "depth_rank": 13
+    },
+    {
+        "segment_id": 12,
+        "class": "dining table",
+        "score": 0.718078,
+        "mask_file": "12_dining_table.png",
+        "median_depth": 0.740610659122467,
+        "depth_rank": 14
+    },
+    {
+        "segment_id": 15,
+        "class": "potted plant",
+        "score": 0.97848,
+        "mask_file": "15_potted_plant.png",
+        "median_depth": 0.6842577457427979,
+        "depth_rank": 15
+    },
+    {
+        "segment_id": 18,
+        "class": "chair",
+        "score": 0.524534,
+        "mask_file": "18_chair.png",
+        "median_depth": 0.5909308195114136,
+        "depth_rank": 16
+    },
+    {
+        "segment_id": 8,
+        "class": "window-other",
+        "score": 0.989784,
+        "mask_file": "08_window-other.png",
+        "median_depth": 0.5693198442459106,
+        "depth_rank": 17
+    },
+    {
+        "segment_id": 6,
+        "class": "door-stuff",
+        "score": 0.765487,
+        "mask_file": "06_door-stuff.png",
+        "median_depth": 0.34462153911590576,
+        "depth_rank": 18
+    }
+]

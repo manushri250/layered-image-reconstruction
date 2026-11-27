@@ -1,0 +1,62 @@
+[
+  {
+    "layer": "01_car",
+    "mean_absolute_error": 0.055398523807525635
+  },
+  {
+    "layer": "02_person",
+    "mean_absolute_error": 0.05388849228620529
+  },
+  {
+    "layer": "03_car",
+    "mean_absolute_error": 0.07246829569339752
+  },
+  {
+    "layer": "04_pavement-merged",
+    "mean_absolute_error": 0.01638629287481308
+  },
+  {
+    "layer": "05_person",
+    "mean_absolute_error": 0.04400620982050896
+  },
+  {
+    "layer": "06_traffic_light",
+    "mean_absolute_error": 0.03521737828850746
+  },
+  {
+    "layer": "07_building-other-merged",
+    "mean_absolute_error": 0.05448497459292412
+  },
+  {
+    "layer": "08_traffic_light",
+    "mean_absolute_error": 0.03350567817687988
+  },
+  {
+    "layer": "09_car",
+    "mean_absolute_error": 0.09950510412454605
+  },
+  {
+    "layer": "10_sky-other-merged",
+    "mean_absolute_error": 0.08845403790473938
+  },
+  {
+    "layer": "11_person",
+    "mean_absolute_error": 0.05316264554858208
+  },
+  {
+    "layer": "12_car",
+    "mean_absolute_error": 0.05251391604542732
+  },
+  {
+    "layer": "13_tree-merged",
+    "mean_absolute_error": 0.048705074936151505
+  },
+  {
+    "layer": "14_road",
+    "mean_absolute_error": 0.025493653491139412
+  },
+  {
+    "layer": "15_fence-merged",
+    "mean_absolute_error": 0.04365277290344238
+  }
+]

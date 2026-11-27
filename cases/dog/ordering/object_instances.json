@@ -1,0 +1,11 @@
+[
+    {
+        "segment_id": 1,
+        "class": "dog",
+        "score": 0.998496,
+        "mask_file": "01_dog.png",
+        "median_depth": 4.030993938446045,
+        "depth_rank": 0,
+        "label_id": 16
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "segment_id": 10,
+        "class": "chair",
+        "overlap_score": 0.9747834368905619,
+        "added_pixels": 1130,
+        "completed_image": "10_chair_completed.png",
+        "amodal_mask": "10_chair_amodal.png"
+    },
+    {
+        "segment_id": 2,
+        "class": "person",
+        "overlap_score": 0.9091811813960978,
+        "added_pixels": 1172,
+        "completed_image": "02_person_completed.png",
+        "amodal_mask": "02_person_amodal.png"
+    },
+    {
+        "segment_id": 19,
+        "class": "couch",
+        "overlap_score": 0.9922261120263591,
+        "added_pixels": 5038,
+        "completed_image": "19_couch_completed.png",
+        "amodal_mask": "19_couch_amodal.png"
+    },
+    {
+        "segment_id": 5,
+        "class": "potted plant",
+        "overlap_score": 0.0,
+        "added_pixels": 0,
+        "completed_image": "05_potted_plant_completed.png",
+        "amodal_mask": "05_potted_plant_amodal.png"
+    },
+    {
+        "segment_id": 16,
+        "class": "person",
+        "overlap_score": 0.7560919141054582,
+        "added_pixels": 1422,
+        "completed_image": "16_person_completed.png",
+        "amodal_mask": "16_person_amodal.png"
+    },
+    {
+        "segment_id": 4,
+        "class": "laptop",
+        "overlap_score": 0.0,
+        "added_pixels": 0,
+        "completed_image": "04_laptop_completed.png",
+        "amodal_mask": "04_laptop_amodal.png"
+    },
+    {
+        "segment_id": 14,
+        "class": "chair",
+        "overlap_score": 0.9250819297309656,
+        "added_pixels": 561,
+        "completed_image": "14_chair_completed.png",
+        "amodal_mask": "14_chair_amodal.png"
+    },
+    {
+        "segment_id": 13,
+        "class": "dining table",
+        "overlap_score": 0.0,
+        "added_pixels": 0,
+        "completed_image": "13_dining_table_completed.png",
+        "amodal_mask": "13_dining_table_amodal.png"
+    },
+    {
+        "segment_id": 1,
+        "class": "chair",
+        "overlap_score": 0.5876383763837638,
+        "added_pixels": 1635,
+        "completed_image": "01_chair_completed.png",
+        "amodal_mask": "01_chair_amodal.png"
+    },
+    {
+        "segment_id": 12,
+        "class": "dining table",
+        "overlap_score": 0.0,
+        "added_pixels": 0,
+        "completed_image": "12_dining_table_completed.png",
+        "amodal_mask": "12_dining_table_amodal.png"
+    },
+    {
+        "segment_id": 15,
+        "class": "potted plant",
+        "overlap_score": 0.7605981193155542,
+        "added_pixels": 112,
+        "completed_image": "15_potted_plant_completed.png",
+        "amodal_mask": "15_potted_plant_amodal.png"
+    },
+    {
+        "segment_id": 18,
+        "class": "chair",
+        "overlap_score": 0.0,
+        "added_pixels": 0,
+        "completed_image": "18_chair_completed.png",
+        "amodal_mask": "18_chair_amodal.png"
+    }
+]

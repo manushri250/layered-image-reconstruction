@@ -1,0 +1,29 @@
+[
+    {
+        "segment_id": 4,
+        "class": "river",
+        "score": 0.872109,
+        "mask_file": "04_river.png",
+        "median_depth": 0.1616109162569046,
+        "depth_rank": 1,
+        "label_id": 99
+    },
+    {
+        "segment_id": 2,
+        "class": "mountain-merged",
+        "score": 0.893926,
+        "mask_file": "02_mountain-merged.png",
+        "median_depth": 0.15080325305461884,
+        "depth_rank": 2,
+        "label_id": 124
+    },
+    {
+        "segment_id": 3,
+        "class": "sky-other-merged",
+        "score": 0.999519,
+        "mask_file": "03_sky-other-merged.png",
+        "median_depth": 0.0,
+        "depth_rank": 3,
+        "label_id": 119
+    }
+]

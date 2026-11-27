@@ -1,0 +1,64 @@
+[
+  {
+    "layer_index": 0,
+    "segment_id": null,
+    "class": "completed_background",
+    "source": "background_completed.png"
+  },
+  {
+    "layer_index": 1,
+    "segment_id": 4,
+    "class": "sky-other-merged",
+    "depth_rank": 6,
+    "median_depth": 0.0,
+    "source": "04_sky-other-merged_rgba.png"
+  },
+  {
+    "layer_index": 2,
+    "segment_id": 2,
+    "class": "mountain-merged",
+    "depth_rank": 5,
+    "median_depth": 0.239427387714386,
+    "source": "02_mountain-merged_rgba.png"
+  },
+  {
+    "layer_index": 3,
+    "segment_id": 6,
+    "class": "river",
+    "depth_rank": 4,
+    "median_depth": 0.8573150634765625,
+    "source": "06_river_rgba.png"
+  },
+  {
+    "layer_index": 4,
+    "segment_id": 5,
+    "class": "tree-merged",
+    "depth_rank": 3,
+    "median_depth": 1.0497514009475708,
+    "source": "05_tree-merged_rgba.png"
+  },
+  {
+    "layer_index": 5,
+    "segment_id": 1,
+    "class": "rock-merged",
+    "depth_rank": 2,
+    "median_depth": 2.2053699493408203,
+    "source": "01_rock-merged_rgba.png"
+  },
+  {
+    "layer_index": 6,
+    "segment_id": 7,
+    "class": "tent",
+    "depth_rank": 1,
+    "median_depth": 4.917585372924805,
+    "source": "07_tent_rgba.png"
+  },
+  {
+    "layer_index": 7,
+    "segment_id": 3,
+    "class": "grass-merged",
+    "depth_rank": 0,
+    "median_depth": 5.128219127655029,
+    "source": "03_grass-merged_rgba.png"
+  }
+]

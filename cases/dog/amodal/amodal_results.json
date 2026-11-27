@@ -1,0 +1,10 @@
+[
+    {
+        "segment_id": 1,
+        "class": "dog",
+        "overlap_score": 0.9655327945874835,
+        "added_pixels": 1423,
+        "completed_image": "01_dog_completed.png",
+        "amodal_mask": "01_dog_amodal.png"
+    }
+]

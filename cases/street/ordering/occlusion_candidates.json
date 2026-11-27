@@ -1,0 +1,136 @@
+[
+    {
+        "segment_id": 1,
+        "class": "car",
+        "depth_rank": 1,
+        "contact_ratio": 0.03618621258639112,
+        "occluders": [
+            {
+                "segment_id": 14,
+                "class": "road",
+                "contact_pixels": 5351
+            }
+        ]
+    },
+    {
+        "segment_id": 2,
+        "class": "person",
+        "depth_rank": 2,
+        "contact_ratio": 0.1890559451266191,
+        "occluders": [
+            {
+                "segment_id": 14,
+                "class": "road",
+                "contact_pixels": 6174
+            }
+        ]
+    },
+    {
+        "segment_id": 5,
+        "class": "person",
+        "depth_rank": 5,
+        "contact_ratio": 0.07130182287465721,
+        "occluders": [
+            {
+                "segment_id": 4,
+                "class": "pavement-merged",
+                "contact_pixels": 442
+            }
+        ]
+    },
+    {
+        "segment_id": 11,
+        "class": "person",
+        "depth_rank": 6,
+        "contact_ratio": 0.1626541397533764,
+        "occluders": [
+            {
+                "segment_id": 4,
+                "class": "pavement-merged",
+                "contact_pixels": 691
+            },
+            {
+                "segment_id": 5,
+                "class": "person",
+                "contact_pixels": 417
+            }
+        ]
+    },
+    {
+        "segment_id": 12,
+        "class": "car",
+        "depth_rank": 8,
+        "contact_ratio": 0.30954631379962194,
+        "occluders": [
+            {
+                "segment_id": 14,
+                "class": "road",
+                "contact_pixels": 458
+            },
+            {
+                "segment_id": 2,
+                "class": "person",
+                "contact_pixels": 197
+            }
+        ]
+    },
+    {
+        "segment_id": 3,
+        "class": "car",
+        "depth_rank": 11,
+        "contact_ratio": 0.43225993617638525,
+        "occluders": [
+            {
+                "segment_id": 14,
+                "class": "road",
+                "contact_pixels": 897
+            },
+            {
+                "segment_id": 2,
+                "class": "person",
+                "contact_pixels": 37
+            },
+            {
+                "segment_id": 13,
+                "class": "tree-merged",
+                "contact_pixels": 556
+            }
+        ]
+    },
+    {
+        "segment_id": 9,
+        "class": "car",
+        "depth_rank": 12,
+        "contact_ratio": 0.4189229396013091,
+        "occluders": [
+            {
+                "segment_id": 14,
+                "class": "road",
+                "contact_pixels": 784
+            },
+            {
+                "segment_id": 13,
+                "class": "tree-merged",
+                "contact_pixels": 624
+            }
+        ]
+    },
+    {
+        "segment_id": 6,
+        "class": "traffic light",
+        "depth_rank": 13,
+        "contact_ratio": 0.957004160887656,
+        "occluders": [
+            {
+                "segment_id": 13,
+                "class": "tree-merged",
+                "contact_pixels": 612
+            },
+            {
+                "segment_id": 7,
+                "class": "building-other-merged",
+                "contact_pixels": 78
+            }
+        ]
+    }
+]

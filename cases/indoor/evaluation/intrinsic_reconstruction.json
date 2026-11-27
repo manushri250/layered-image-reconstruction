@@ -1,0 +1,78 @@
+[
+  {
+    "layer": "01_chair",
+    "mean_absolute_error": 0.09630255401134491
+  },
+  {
+    "layer": "02_person",
+    "mean_absolute_error": 0.05254613980650902
+  },
+  {
+    "layer": "03_floor-wood",
+    "mean_absolute_error": 0.03759874776005745
+  },
+  {
+    "layer": "04_laptop",
+    "mean_absolute_error": 0.09665530174970627
+  },
+  {
+    "layer": "05_potted_plant",
+    "mean_absolute_error": 0.11169285327196121
+  },
+  {
+    "layer": "06_door-stuff",
+    "mean_absolute_error": 0.024860825389623642
+  },
+  {
+    "layer": "07_wall-other-merged",
+    "mean_absolute_error": 0.03250468894839287
+  },
+  {
+    "layer": "08_window-other",
+    "mean_absolute_error": 0.030276170000433922
+  },
+  {
+    "layer": "09_light",
+    "mean_absolute_error": 0.05543593317270279
+  },
+  {
+    "layer": "10_chair",
+    "mean_absolute_error": 0.04115702584385872
+  },
+  {
+    "layer": "11_ceiling-merged",
+    "mean_absolute_error": 0.015822798013687134
+  },
+  {
+    "layer": "12_dining_table",
+    "mean_absolute_error": 0.15955182909965515
+  },
+  {
+    "layer": "13_dining_table",
+    "mean_absolute_error": 0.10599410533905029
+  },
+  {
+    "layer": "14_chair",
+    "mean_absolute_error": 0.07725068926811218
+  },
+  {
+    "layer": "15_potted_plant",
+    "mean_absolute_error": 0.0863168016076088
+  },
+  {
+    "layer": "16_person",
+    "mean_absolute_error": 0.0607181042432785
+  },
+  {
+    "layer": "17_table-merged",
+    "mean_absolute_error": 0.04106579348444939
+  },
+  {
+    "layer": "18_chair",
+    "mean_absolute_error": 0.09923980385065079
+  },
+  {
+    "layer": "19_couch",
+    "mean_absolute_error": 0.04459919407963753
+  }
+]
